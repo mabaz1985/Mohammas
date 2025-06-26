@@ -1,2 +1,2 @@
 # this the first project for me
-## it was diffecalt
+## you have to add some thing
